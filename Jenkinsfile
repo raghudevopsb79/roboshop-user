@@ -1,6 +1,6 @@
 @Library('roboshop-jenkins-library') _
 
-env.appName = "roboshop-cart"
+env.appName = "roboshop-user"
 env.appType = "nodejs"
 
 cipipeline()
